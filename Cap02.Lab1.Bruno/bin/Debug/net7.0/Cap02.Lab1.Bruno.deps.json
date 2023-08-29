@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Cap02.Lab1.Bruno/1.0.0": {
+        "runtime": {
+          "Cap02.Lab1.Bruno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cap02.Lab1.Bruno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Desafio.Cap05.Bruno/1.0.0": {
+        "runtime": {
+          "Desafio.Cap05.Bruno.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio.Cap05.Bruno/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

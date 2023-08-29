@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio4.Cap08.Matrizes.Bruno", "Desafio4.Cap08.Matrizes.Bruno.csproj", "{1BA877B8-4A28-4279-89FA-F269F0C0B45A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BA877B8-4A28-4279-89FA-F269F0C0B45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA877B8-4A28-4279-89FA-F269F0C0B45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA877B8-4A28-4279-89FA-F269F0C0B45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA877B8-4A28-4279-89FA-F269F0C0B45A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A599389-B1E6-46AE-95A4-4E06A7E8EA53}
+	EndGlobalSection
+EndGlobal

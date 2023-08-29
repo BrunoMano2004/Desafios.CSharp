@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\bin\Debug\net7.0\Desafio4.Cap08.Matrizes.Bruno.exe
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\bin\Debug\net7.0\Desafio4.Cap08.Matrizes.Bruno.deps.json
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\bin\Debug\net7.0\Desafio4.Cap08.Matrizes.Bruno.runtimeconfig.json
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\bin\Debug\net7.0\Desafio4.Cap08.Matrizes.Bruno.dll
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\bin\Debug\net7.0\Desafio4.Cap08.Matrizes.Bruno.pdb
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\obj\Debug\net7.0\Desafio4.Cap08.Matrizes.Bruno.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\obj\Debug\net7.0\Desafio4.Cap08.Matrizes.Bruno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\obj\Debug\net7.0\Desafio4.Cap08.Matrizes.Bruno.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\obj\Debug\net7.0\Desafio4.Cap08.Matrizes.Bruno.AssemblyInfo.cs
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\obj\Debug\net7.0\Desafio4.Cap08.Matrizes.Bruno.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\obj\Debug\net7.0\Desafio4.Cap08.Matrizes.Bruno.dll
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\obj\Debug\net7.0\refint\Desafio4.Cap08.Matrizes.Bruno.dll
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\obj\Debug\net7.0\Desafio4.Cap08.Matrizes.Bruno.pdb
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\obj\Debug\net7.0\Desafio4.Cap08.Matrizes.Bruno.genruntimeconfig.cache
+C:\Users\bruno\Desktop\projetosC#\Desafio4.Cap08.Matrizes.Bruno\obj\Debug\net7.0\ref\Desafio4.Cap08.Matrizes.Bruno.dll

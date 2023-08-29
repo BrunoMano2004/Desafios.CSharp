@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\bin\Debug\net7.0\DesafioB.Delegate.Bruno.exe
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\bin\Debug\net7.0\DesafioB.Delegate.Bruno.deps.json
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\bin\Debug\net7.0\DesafioB.Delegate.Bruno.runtimeconfig.json
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\bin\Debug\net7.0\DesafioB.Delegate.Bruno.dll
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\bin\Debug\net7.0\DesafioB.Delegate.Bruno.pdb
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\obj\Debug\net7.0\DesafioB.Delegate.Bruno.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\obj\Debug\net7.0\DesafioB.Delegate.Bruno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\obj\Debug\net7.0\DesafioB.Delegate.Bruno.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\obj\Debug\net7.0\DesafioB.Delegate.Bruno.AssemblyInfo.cs
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\obj\Debug\net7.0\DesafioB.Delegate.Bruno.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\obj\Debug\net7.0\DesafioB.Delegate.Bruno.dll
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\obj\Debug\net7.0\refint\DesafioB.Delegate.Bruno.dll
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\obj\Debug\net7.0\DesafioB.Delegate.Bruno.pdb
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\obj\Debug\net7.0\DesafioB.Delegate.Bruno.genruntimeconfig.cache
+C:\Users\bruno\Desktop\projetosC#\DesafioB.Delegate.Bruno\obj\Debug\net7.0\ref\DesafioB.Delegate.Bruno.dll

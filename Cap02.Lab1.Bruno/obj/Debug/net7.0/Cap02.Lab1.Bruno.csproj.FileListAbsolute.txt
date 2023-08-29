@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\obj\Debug\net7.0\Cap02.Lab1.Bruno.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\obj\Debug\net7.0\Cap02.Lab1.Bruno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\obj\Debug\net7.0\Cap02.Lab1.Bruno.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\obj\Debug\net7.0\Cap02.Lab1.Bruno.AssemblyInfo.cs
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\obj\Debug\net7.0\Cap02.Lab1.Bruno.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\bin\Debug\net7.0\Cap02.Lab1.Bruno.exe
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\bin\Debug\net7.0\Cap02.Lab1.Bruno.deps.json
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\bin\Debug\net7.0\Cap02.Lab1.Bruno.runtimeconfig.json
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\bin\Debug\net7.0\Cap02.Lab1.Bruno.dll
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\bin\Debug\net7.0\Cap02.Lab1.Bruno.pdb
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\obj\Debug\net7.0\Cap02.Lab1.Bruno.dll
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\obj\Debug\net7.0\refint\Cap02.Lab1.Bruno.dll
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\obj\Debug\net7.0\Cap02.Lab1.Bruno.pdb
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\obj\Debug\net7.0\Cap02.Lab1.Bruno.genruntimeconfig.cache
+C:\Users\bruno\Desktop\projetosC#\Cap02.Lab1.Bruno\obj\Debug\net7.0\ref\Cap02.Lab1.Bruno.dll
